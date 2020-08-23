@@ -46,7 +46,7 @@
 2. [Reverse a linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 3. [Rotate a Linked List](https://www.geeksforgeeks.org/rotate-a-linked-list/)
 4. [Reverse a Linked List in groups of given size](https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/)
-5. [Intersection point in Y shaped linked lists](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/()
+5. [Intersection point in Y shaped linked lists](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
 6. [Detect Loop in linked list](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/)
 7. [Remove loop in Linked List](https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/)
 8. [n’th node from end of linked list](https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/)
