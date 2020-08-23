@@ -63,16 +63,16 @@
 
 # Stack and Queue
 
-1. [Parenthesis Checker]()
-2. [Next larger element]()
-3. [Queue using two Stacks]()
-4. [Stack using two queues]()
-5. [Get minimum element from stack]()
-6. [LRU Cache]()
-7. [Circular tour]()
-8. [First non-repeating character in a stream]()
-9. [Rotten Oranges]()
-10. [Maximum of all subarrays of size k]()
+1. [Parenthesis Checker](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)
+2. [Next larger element](https://www.geeksforgeeks.org/next-greater-element/)
+3. [Queue using two Stacks](https://www.geeksforgeeks.org/queue-using-stacks/)
+4. [Stack using two queues](https://www.geeksforgeeks.org/implement-stack-using-queue/)
+5. [Get minimum element from stack](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
+6. [LRU Cache](https://www.geeksforgeeks.org/lru-cache-implementation/)
+7. [Circular tour](https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/)
+8. [First non-repeating character in a stream](https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/)
+9. [Rotten Oranges](https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/)
+10. [Maximum of all subarrays of size k](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 
 # Tree
 
@@ -95,21 +95,21 @@
 
 # Heap
 
-1. [Find median in a stream]()
-2. [Heap Sort]()
-3. [Operations on Binary Min Heap]()
-4. [Rearrange characters]()
-5. [Kth largest element in a stream]()
-6. [Merge K sorted linked lists]()
-7. [Kth largest element in a stream]()
+1. [Find median in a stream](https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
+2. [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
+3. [Operations on Binary Min Heap](https://www.geeksforgeeks.org/binary-heap/)
+4. [Rearrange characters](https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/)
+5. [Kth largest element in a stream](https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/)
+6. [Merge K sorted linked lists](https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/)
+7. [Kth largest element in a stream](https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/)
 
 # Recursion
 
-1. [Flood fill Algorithm]()
-2. [Number of paths]()
-3. [Combination Sum – Part 2]()
-4. [Special Keyboard]()
-5. [Josephus problem]()
+1. [Flood fill Algorithm](https://www.geeksforgeeks.org/flood-fill-algorithm-implement-fill-paint/)
+2. [Number of paths](https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/)
+3. [Combination Sum – Part 2](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/)
+4. [Special Keyboard](https://www.geeksforgeeks.org/how-to-print-maximum-number-of-a-using-given-four-keys/)
+5. [Josephus problem](https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/)
 
 # Hashing
 
